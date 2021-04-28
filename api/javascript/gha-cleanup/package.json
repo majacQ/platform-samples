@@ -11,8 +11,12 @@
     "chalk": "^3.0.0",
     "commander": "^4.1.0",
     "dotenv": "^8.2.0",
+  <<<<<<< snyk-upgrade-20bfed1f4320edbc6af5388baca01132
+    "inquirer": "^7.3.3",
+  =======
     "inquirer": "^7.0.4",
   <<<<<<< snyk-upgrade-324aff73b65f9ce91745c2d629224f6d
+  >>>>>>> master
     "lodash": "^4.17.19",
     "moment": "^2.29.1",
   =======
