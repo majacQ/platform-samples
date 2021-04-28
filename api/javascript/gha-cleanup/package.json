@@ -24,7 +24,7 @@
     "moment": "^2.24.0",
   >>>>>>> master
     "octokit": "^1.0.0-hello-world",
-    "pretty-bytes": "^5.3.0",
+    "pretty-bytes": "^5.6.0",
     "terminal-kit": "^1.49.3"
   }
 }
