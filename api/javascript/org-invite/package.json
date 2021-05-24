@@ -12,7 +12,13 @@
     "commander": "^4.1.0",
     "dotenv": "^8.2.0",
     "inquirer": "^7.0.4",
-    "lodash": "^4.17.15",
-    "octokit": "^1.0.0-hello-world"
-  }
+    "lodash": "^4.17.17",
+    "octokit": "^1.0.0-hello-world",
+    "snyk": "^1.606.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
